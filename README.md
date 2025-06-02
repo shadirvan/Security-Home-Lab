@@ -7,11 +7,13 @@ A Security Detection Lab project 🎯 was created to build a controlled playgrou
 ### Skills Learned
 - Install A Linux Operating System
 - Using a Hypervisor
+- Installing Splunk
 
 ### Tools Used
 
 - Debian (As Operating System)
-- VMware 
+- VMware
+- Splunk Enterprise
 
 ## Steps
 1. Download a good Hypervisor. I prefer vmware as it more stable than virtualbox.
@@ -44,7 +46,7 @@ A Security Detection Lab project 🎯 was created to build a controlled playgrou
    ![Debian 12 x 64-bit-2025-06-02-20-38-23](https://github.com/user-attachments/assets/0fe1ce81-9679-4004-aebc-602eb19b0b06)
    
 8. Create admin user with a password
-    ![Debian 12 x 64-bit-2025-06-02-20-38-39](https://github.com/user-attachments/assets/ab0f2a1c-35d4-4b93-8c0b-47f6d7a95c65).
+    ![Debian 12 x 64-bit-2025-06-02-20-38-39](https://github.com/user-attachments/assets/ab0f2a1c-35d4-4b93-8c0b-47f6d7a95c65)
    
 9. Launch the webserver by clicking the Url
     
