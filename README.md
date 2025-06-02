@@ -53,7 +53,7 @@ A Security Detection Lab project 🎯 was created to build a controlled playgrou
  ![Debian 12 x 64-bit-2025-06-02-20-38-49](https://github.com/user-attachments/assets/77eae1c2-5e03-42c0-bc65-6e2a29007b1d)
 10. Login With the Credentials
     
-![Debian 12 x 64-bit-2025-06-02-20-39-03](https://github.com/user-attachments/assets/52cd89cb-c07a-4160-a7a0-232f5303a755).
+![Debian 12 x 64-bit-2025-06-02-20-39-03](https://github.com/user-attachments/assets/52cd89cb-c07a-4160-a7a0-232f5303a755)
 
 11. Now You can access the Splunk Dashboard
  ![Debian 12 x 64-bit-2025-06-02-20-39-18](https://github.com/user-attachments/assets/a34e2b1f-5af2-44d0-afd7-3d90020aaf1f)
