@@ -1,9 +1,8 @@
 # Security-Home-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+A Security Detection Lab project 🎯 was created to build a controlled playground 🛡️ for simulating and detecting cyber attacks ⚔️. Its main goal? To ingest and analyze logs 📊 within a powerful SIEM system 🕵️‍♂️, generating realistic test telemetry 📡 that mimics real-world attack scenarios 🌐🔥. This hands-on experience 💻🔍 helps sharpen skills in network security 🛡️, uncover attack patterns 🧩, and master defensive strategies 🛠️ to stay one step ahead of cyber threats! 🚀✨
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
